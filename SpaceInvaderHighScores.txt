@@ -1,0 +1,10 @@
+John,5000
+John,4000
+John,3000
+John,2000
+John,1000
+John,500
+John,400
+John,300
+Rodriguez,250
+Alice,250
